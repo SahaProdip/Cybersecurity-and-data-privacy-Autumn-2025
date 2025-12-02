@@ -21,8 +21,8 @@ The purpose of this penetration test was to reassess the registration functional
 **Gray-box / White-hat**
 
 ### Test Environment & Dates  
-- **Start:** 1st November 2025  
-- **End:** 2nd November 2025  
+- **Start:** 1st December 2025  
+- **End:** 2nd December 2025  
 - OS: Windows 11  
 - Tools: Docker Desktop, Browser, Manual Testing  
 - Web Application: http://localhost:8001  
