@@ -24,7 +24,7 @@ Gray-box / White-hat, manual functional + penetration-style testing.
 
 **Test Environment & Dates**
 
-- Start: 5th December 2025  
+- Start: 6th December 2025  
 - End: 8th December 2025  
 - OS: Windows 11  
 - Tools: Docker Desktop, Browser, Manual Testing  
