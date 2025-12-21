@@ -22,12 +22,14 @@
 |7.12.2025|7|The Booking system project Phase 1 part 1 and The Booking system project Phase 2|Added a new zap report for Phase 1 part 1, working process still running for project Phase 2 and done (step 1 ans step 2)|
 |21.12.2025|4|Introduction to the portswigger environment and Final assignment for the project and course|Done more 3 labs now 9 in total and completed the Final assignment for the project and course|
 
-
-
 ## Total Hours Spent
-
+**55.5 hours**
 
 ## Hours per Topic
-- Introduction to Cybersecurity — 
-- PortSwigger Labs — 
-- Booking System Project — 
+- Introduction to Cybersecurity — **17 hours**
+- PortSwigger Labs — **5 hours**
+- Booking System Project — **31.5 hours**
+- Final Assignment (Project & Course) — **2 hours**
+
+
+
